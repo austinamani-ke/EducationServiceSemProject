@@ -101,3 +101,9 @@ The application will prompt you to identify as a student or a teacher.
 ### Quitting the Application
 
 At most prompts, you can enter `q` or `0` to exit the application.
+
+### Collaborators
+- Austin Muchai
+- Melanie Thiong'oh
+- Mathews Kipruto
+- 
