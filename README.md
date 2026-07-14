@@ -106,4 +106,4 @@ At most prompts, you can enter `q` or `0` to exit the application.
 - Austin Muchai
 - Melanie Thiong'oh
 - Mathews Kipruto
-- 
+- Muriithi Daniel
